@@ -19,6 +19,7 @@ HTML5
 CSS3
 Flaticon Icons
 
+```
 📂 Project Structure
 linktree/
 │
@@ -27,6 +28,7 @@ linktree/
 ├── profile.png
 ├── bg.jpg
 └── README.md
+```
 
 👨‍💻 Author
 Abid
